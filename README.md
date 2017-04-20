@@ -1,7 +1,7 @@
 Delta Chat Website
 ================================================================================
 
-This repository contains the files used for the Delta Chat website.
+This repository contains the source code of Delta Chat website.
 
 ---
 
